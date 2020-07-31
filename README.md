@@ -10,4 +10,6 @@ Note that this repository is a collection my personal notes while learning data 
 
 ## Algorithms
 
-- [Binary Search](/algorithms/binary-search) A search for sorted arrays.
+- [Binary Search](/algorithms/binary-search) - A search for sorted arrays.
+
+- [Bubble Sort](/algorithms/bubble-sort)
